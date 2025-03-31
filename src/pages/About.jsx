@@ -1,7 +1,7 @@
 import React from "react";
 
-const Doctor = () => {
+const About = () => {
   return <div></div>;
 };
 
-export default Doctor;
+export default About;
